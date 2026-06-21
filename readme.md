@@ -4,7 +4,7 @@
 
 Guess The Number is a simple interactive web-based game where players attempt to guess a randomly generated number within a specified range. The game provides instant feedback on whether the guessed number is too high, too low, or correct, making it an engaging project for learning fundamental programming concepts and user interaction.
 
-This project demonstrates the use of random number generation, conditional logic, event handling, and DOM manipulation in a fun and interactive way..
+This project demonstrates the use of random number generation, conditional logic, event handling, and DOM manipulation in a fun and interactive way.
 
 ---
 
